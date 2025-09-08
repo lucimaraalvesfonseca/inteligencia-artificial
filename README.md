@@ -1,24 +1,18 @@
 # inteligencia-artificial
 
-Pergunta 1
-Qual tipo de show você prefere?
-a) Uma apresentação com coreografias elaboradas e figurinos chamativos.
-"Ama apresentações com coreografias complexas e figurinos impactantes."
 
-b) Um show mais intimista, com foco na melodia e nas letras poéticas.
-"Prefere shows intimistas que valorizam a melodia e as letras poéticas."
 
 Pergunta 2
-Em qual desses cenários você se sentiria mais à vontade?
-a) Em um evento com um público jovem e bastante animado, cantando em uníssono.
- "Prefere ambientes com um público jovem e enérgico, onde a energia é contagiante."
 
-b) Em um barzinho aconchegante, curtindo uma voz e um violão.
-"Gosta mais de um barzinho aconchegante, onde posso apreciar uma voz e um violão."
+a) 
+ ""
+
+b) 
+""
 
 Pergunta 3
-Qual desses elementos é mais importante para você em uma música?
-a) O ritmo dançante e a produção musical moderna.
+
+a) .
 "Para você, o ritmo e a produção moderna são os aspectos mais importantes em uma música."
 
 b) A profundidade da letra e a harmonia dos instrumentos acústicos.
