@@ -6,50 +6,53 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Assim que saiu da escola você se depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios hiper-realistas. Qual o primeiro pensamento?",
+        enunciado: "Qual tipo de show você prefere? ",
         alternativas: [
             {
-                texto: "Isso é assustador!",
-                afirmacao: "afirmação"
+                texto: " Uma apresentação com coreografias elaboradas e figurinos chamativos.",
+                afirmacao: "Ama apresentações com coreografias complexas e figurinos impactantes."
             },
             {
-                texto: "Isso é maravilhoso!",
-                afirmacao: "afirmação"
+                texto: "Um show mais intimista, com foco na melodia e nas letras poéticas. ",
+                afirmacao: "Prefere shows intimistas que valorizam a melodia e as letras poéticas."
             }
         ]
     },
     {
-        enunciado: "Com a descoberta desta tecnologia, chamada Inteligência Artificial, uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
+        enunciado: "Em qual desses cenários você se sentiria mais à vontade? ?",
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
-                afirmacao: "afirmação"
+                texto: "Em um evento com um público jovem e bastante animado, cantando em uníssono
+                afirmacao: "Prefere ambientes com um público jovem e enérgico, onde a energia é contagiante."
+
+"
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
-                afirmacao: "afirmação"
+                texto: "Em um barzinho aconchegante, curtindo uma voz e um violão.",
+                afirmacao: "Gosta mais de um barzinho aconchegante, onde posso apreciar uma voz e um violão."
             }
         ]
     },
     {
-        enunciado: "Após a elaboração do trabalho escrito, a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
+        enunciado: "Qual desses elementos é mais importante para você em uma música?",
         alternativas: [
             {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
-                afirmacao: "afirmação"
-            },
+                texto: " O ritmo dançante e a produção musical moderna. ",
+                afirmacao:  "Para você, o ritmo e a produção moderna são os aspectos mais importantes em uma música."
+
+
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
-                afirmacao: "afirmação"
+                texto: "A profundidade da letra e a harmonia dos instrumentos acústicos. ",
+                afirmacao: "Valoriza a profundidade das letras e a harmonia dos instrumentos acústicos."
             }
         ]
     },
     {
-        enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
+        enunciado: "Ao ouvir uma nova música, o que mais chama sua atenção? ",
         alternativas: [
             {
-                texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
-                afirmacao: "afirmação"
+                texto: "O visual do artista e a performance no videoclipe. ",
+                afirmacao: "O visual do artista e a performance no videoclipe são o que mais me chamam a atenção."
             },
             {
                 texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
