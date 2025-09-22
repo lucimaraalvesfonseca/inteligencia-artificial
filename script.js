@@ -48,28 +48,28 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Ao ouvir uma nova música, o que mais chama sua atenção? ",
+        enunciado: "Ao ouvir uma nova música, o que mais chama sua atenção? ? ",
         alternativas: [
             {
-                texto: "O visual do artista e a performance no videoclipe. ",
+                texto: "O visual do artista e a performance no videoclipe.  ",
                 afirmacao: "O visual do artista e a performance no videoclipe são o que mais me chamam a atenção."
             },
             {
-                texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
-                afirmacao: "afirmação"
+                texto: "A riqueza dos arranjos e a história contada na canção. ",
+                afirmacao: "A riqueza dos arranjos e a história contada na canção são o que mais me prendem."
             }
         ]
     },
     {
-        enunciado: "Você tem um trabalho em grupo de biologia para entregar na semana seguinte, o andamento do trabalho está um pouco atrasado e uma pessoa do seu grupo decidiu fazer com ajuda da IA. O problema é que o trabalho está totalmente igual ao do chat. O que você faz? ",
+        enunciado: " Se tivesse que escolher um estilo para ouvir em uma viagem de carro, qual seria? ",
         alternativas: [
             {
-                texto: "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
-                afirmacao: "afirmação"
+                texto: "Uma playlist cheia de energia e batidas marcantes para manter o ânimo. ",
+                afirmacao: "Em uma viagem de carro, gosta de playlists com batidas fortes para manter a animação."
             },
             {
-                texto: "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial.",
-                afirmacao: "afirmação"
+                texto: " Uma coletânea de canções calmas e clássicas para relaxar e apreciar a paisagem. ",
+                afirmacao: "Durante uma viagem de carro, prefiro ouvir canções calmas e clássicas para relaxar ."
             }
         ]
     },
