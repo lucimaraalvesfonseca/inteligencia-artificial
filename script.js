@@ -22,10 +22,8 @@ const perguntas = [
         enunciado: "Em qual desses cenários você se sentiria mais à vontade? ?",
         alternativas: [
             {
-                texto: "Em um evento com um público jovem e bastante animado, cantando em uníssono
+                texto: "Em um evento com um público jovem e bastante animado, cantando em uníssono",
                 afirmacao: "Prefere ambientes com um público jovem e enérgico, onde a energia é contagiante."
-
-"
             },
             {
                 texto: "Em um barzinho aconchegante, curtindo uma voz e um violão.",
@@ -39,8 +37,7 @@ const perguntas = [
             {
                 texto: " O ritmo dançante e a produção musical moderna. ",
                 afirmacao:  "Para você, o ritmo e a produção moderna são os aspectos mais importantes em uma música."
-
-
+            },
             {
                 texto: "A profundidade da letra e a harmonia dos instrumentos acústicos. ",
                 afirmacao: "Valoriza a profundidade das letras e a harmonia dos instrumentos acústicos."
